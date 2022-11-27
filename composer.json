@@ -1,0 +1,18 @@
+{
+    "name": "user/php-to-tcpdf",
+    "description": "PhpToTcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\PhpToTcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitug Killian",
+            "email": "killianjarelvitug@yahoo.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.5"
+    }
+}
